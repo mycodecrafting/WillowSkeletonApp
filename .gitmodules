@@ -1,0 +1,12 @@
+[submodule "Vendor/Willow"]
+	path = Vendor/Willow
+	url = git@github.com:smarterwebdev/php-willow.git
+[submodule "Vendor/Doctrine"]
+	path = Vendor/Doctrine
+	url = https://github.com/doctrine/doctrine1.git
+[submodule "Vendor/Motif"]
+	path = Vendor/Motif
+	url = git@github.com:smarterwebdev/php-motif.git
+[submodule "Vendor/Swift"]
+	path = Vendor/Swift
+	url = https://github.com/swiftmailer/swiftmailer.git
