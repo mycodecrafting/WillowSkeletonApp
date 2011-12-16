@@ -8,4 +8,9 @@ app:
 
 # setup database connections
 db:
-  connection:           "mysql://root@localhost/app-db"
+  connection:           "mysql://root@localhost/willow-app"
+
+#
+plugins:
+  disabled:
+    - "TemplateEngine:Motif"
